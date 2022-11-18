@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mrinmoymahato2001@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1u9feO1NcjixNXi0xJ8tJM1_HElZjceYL/edit?usp=share_link&ouid=114117994347146794101&rtpof=true&sd=true](https://docs.google.com/document/d/1u9feO1NcjixNXi0xJ8tJM1_HElZjceYL/edit?usp=share_link&ouid=114117994347146794101&rtpof=true&sd=true)
+- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1u9feO1NcjixNXi0xJ8tJM1_HElZjceYL/edit?usp=share_link&ouid=114117994347146794101&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I think I am funny**
 
