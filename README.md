@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mrinimoy Mahato</h1>
+<h1 align="center">Hi 👋, I'm Mrinmoy Mahato</h1>
 <h3 align="center">I am a sophomore having great interest in Machine Learning, Deep Learning, Natural Language Processing, Computer Vision. I am also a Competitive Coder, and love to give contests.</h3>
 
 - 🔭 I’m currently working on [HealthAir](https://github.com/RitikJha93/HealthAir)
