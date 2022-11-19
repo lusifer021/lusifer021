@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mrinmoy Mahato</h1>
+<h1 align="center">Hi 👋, I'm Mrinimoy Mahato</h1>
 <h3 align="center">I am a sophomore having great interest in Machine Learning, Deep Learning, Natural Language Processing, Computer Vision. I am also a Competitive Coder, and love to give contests.</h3>
 
 - 🔭 I’m currently working on [HealthAir](https://github.com/RitikJha93/HealthAir)
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mrinmoymahato2001@gmail.com**
 
-- 📄 Know about my experiences [here(resume)](https://docs.google.com/document/d/1u9feO1NcjixNXi0xJ8tJM1_HElZjceYL/edit?usp=share_link&ouid=114117994347146794101&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1u9feO1NcjixNXi0xJ8tJM1_HElZjceYL/edit?usp=share_link&ouid=114117994347146794101&rtpof=true&sd=true](https://docs.google.com/document/d/1u9feO1NcjixNXi0xJ8tJM1_HElZjceYL/edit?usp=share_link&ouid=114117994347146794101&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I think I am funny**
 
